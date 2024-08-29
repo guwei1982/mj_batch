@@ -1,0 +1,2 @@
+使用colab+GCE虚拟机,批量生成图片
+使用chrome浏览器chrono插件下载，命名规则为flaturl
